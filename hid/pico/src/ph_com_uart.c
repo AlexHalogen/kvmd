@@ -31,8 +31,8 @@
 
 #define _BUS		uart1
 #define _SPEED		115200
-#define _RX_PIN		21
-#define _TX_PIN		20
+#define _RX_PIN		4
+#define _TX_PIN		3
 #define _TIMEOUT_US	100000
 
 

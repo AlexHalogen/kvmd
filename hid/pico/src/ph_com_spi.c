@@ -33,10 +33,10 @@
 #define _BUS		spi0
 #define _IRQ		SPI0_IRQ
 #define _FREQ		(2 * 1000 * 1000)
-#define _CS_PIN		21
-#define _RX_PIN		20
-#define _TX_PIN		19
-#define _CLK_PIN	18
+#define _CS_PIN		5
+#define _RX_PIN		4
+#define _TX_PIN		3
+#define _CLK_PIN	2
 
 
 static volatile u8 _in_buf[8] = {0};

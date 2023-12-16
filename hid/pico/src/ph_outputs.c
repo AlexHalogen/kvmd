@@ -31,11 +31,11 @@
 #include "ph_proto.h"
 
 
-#define _PS2_ENABLED_PIN		2
-#define	_PS2_SET_KBD_PIN		3
-#define _PS2_SET_MOUSE_PIN		4
+#define _PS2_ENABLED_PIN		18
+#define	_PS2_SET_KBD_PIN		19
+#define _PS2_SET_MOUSE_PIN		20
 
-#define _BRIDGE_MODE_PIN		5
+#define _BRIDGE_MODE_PIN		21
 
 #define _USB_DISABLED_PIN		6
 #define _USB_ENABLE_W98_PIN		7
